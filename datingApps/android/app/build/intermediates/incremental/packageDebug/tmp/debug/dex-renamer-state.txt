@@ -1,0 +1,4 @@
+#Sat Mar 16 11:54:18 WIB 2019
+base.0=/Users/TommyMac/Project/my-datingApps-project/datingApps/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
